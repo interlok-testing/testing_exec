@@ -1,0 +1,15 @@
+```plantuml
+@startuml
+storage Host{
+usecase Interlok [
+Interlok
+]
+usecase OS [
+OS
+]
+}
+
+Http -> Interlok
+Interlok -> OS
+@enduml
+```
