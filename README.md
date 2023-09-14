@@ -1,5 +1,8 @@
 # Exec Testing
 
+[![license](https://img.shields.io/github/license/interlok-testing/testing_exec.svg)](https://github.com/interlok-testing/testing_exec/blob/develop/LICENSE)
+[![Actions Status](https://github.com/interlok-testing/testing_exec/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/interlok-testing/testing_exec/actions/workflows/gradle-build.yml)
+
 Project tests interlok-exec features
 
 ## What it does
